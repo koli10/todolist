@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?familFGochi+Hand');
 body {
-  background-color: #a39bd2;
+  background-color: rgb(69, 140, 161);
   min-height: 70vh;
   padding: 1rem;
   box-sizing: border-box;
@@ -24,7 +24,7 @@ body {
   min-height: 500px;
   max-width: 500px;
   min-width: 250px;
-  background: #f1f5f8;
+  background: #d8b2b2;
   background-image: radial-gradient(#bfc0, 7.2%, transparent 0);
   background-size: 25px 25px;
   border-radius: 20px;
